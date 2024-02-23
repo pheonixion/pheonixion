@@ -1,6 +1,4 @@
-### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%94%B8Hi%2C+Pheonixion...;%E2%9A%A1Coding+is+My+Hobby...%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Jai+Shree+Ram+...%F0%9F%8F%B9)](https://git.io/typing-svg)
-<!
 <h1 align="center">Hi 👋, I'm Pheonixion</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pheonixion&label=Profile%20views&color=0e75b6&style=flat" alt="pheonixion" /> </p>
